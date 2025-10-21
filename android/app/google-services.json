@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897398997607",
+    "project_id": "albarakabank-e35d4",
+    "storage_bucket": "albarakabank-e35d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897398997607:android:42fc24f0116e619b3acac2",
+        "android_client_info": {
+          "package_name": "com.ablmobilebankingsolution.sa.mobile.acceptanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2gAXfCrdMhbrWQSXz9CKpJcX28FOzIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
