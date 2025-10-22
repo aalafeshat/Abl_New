@@ -158,9 +158,9 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.506",
-    "buildNumber": 506,
+    "appVersion": "0.0.507",
+    "buildNumber": 507,
     "runtimeUrl": "https://mbamendixproxy-uat.albarakaonline.co.za",
-    "hermesEnabled": false,
+    "hermesEnabled": true,
     "cookieEncryptionEnabled": false
 }
