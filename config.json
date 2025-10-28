@@ -137,19 +137,19 @@
             "enabled": false
         },
         "pushNotifications": {
-            "enabled": false
+            "enabled": true
         },
         "crashlytics": {
             "enabled": false
         },
         "firebaseAndroid": {
-            "enabled": false
+            "enabled": true
         },
         "firebaseIos": {
-            "enabled": false
+            "enabled": true
         },
         "localNotifications": {
-            "enabled": false
+            "enabled": true
         },
         "appCenterOTA": {
             "enabled": false
@@ -158,8 +158,8 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.509",
-    "buildNumber": 509,
+    "appVersion": "0.0.510",
+    "buildNumber": 510,
     "runtimeUrl": "https://mbamendixproxy-uat.albarakaonline.co.za",
     "hermesEnabled": true,
     "cookieEncryptionEnabled": false
